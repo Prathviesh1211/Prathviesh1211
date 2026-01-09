@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **Full-stack MERN / Next.js projects with real-world use cases**
+- 👯 I’m looking to collaborate on Full-stack MERN / Next.js projects with real-world use cases
 
-- 🤝 I’m looking for help with **Scaling AI-powered web apps & improving system design**
+- 🤝 I’m looking for help with Scaling AI-powered web apps & improving system design
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathviesh1211](https://github.com/Prathviesh1211)
 
 - 📫 How to reach me **prathvieshnaik@gmail.com**
 
-- ⚡ Fun fact **I break things first,that’s how I learn to fix them 😄**
+- ⚡ Fun fact **I break things first, debugging is my version of field training. 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
